@@ -3,9 +3,3 @@ Third Line
 Line number four
 Line Number 5
 Line 6
-________
-
-additional changes, new feature
-
-__________________
-one more updates
